@@ -10,3 +10,6 @@ El repostorio está dividido en 3 grandes secciones:
 - Resultados csv
 
 En estas tres carpetas están los scripts y .csv que usé sin modificar. Los nombres de los nombres de archivos que no sean muy descriptivos, voy a cambiarlos próximamente para que resulten más amigables. Los archivos .csv subidos son resultado de los scripts presentes en las otras carpetas; sus encabezados, estructura y output son los más representativo y útil para pasos futuros. 
+
+## Notebooks
+En esta carpeta voy a ir reescribiendo los scripts python y bash para que sean más esclarecedores.
