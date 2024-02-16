@@ -13,4 +13,4 @@ En estas tres carpetas están los scripts y .csv que usé sin modificar. Los nom
 En la carpeta "Resultados csv" también se encuentran gráficos surgidos de los análisis realizados a través de scripts y resumenes escritos de resultados obtenidos. 
 
 ## Notebooks
-En esta carpeta voy a ir reescribiendo los scripts python y bash para que sean más esclarecedores.
+En esta carpeta voy a ir reescribiendo los scripts python y bash para que sean más comprensibles.
