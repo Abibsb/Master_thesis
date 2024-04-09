@@ -1,0 +1,10 @@
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/100d.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/100d.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/101d.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/101d.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/101m.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/101m.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/102d.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/102d.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/102l.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/102l.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/102m.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/102m.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/103d.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/103d.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/103l.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/103l.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/103m.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/103m.tsv 2> /dev/null
+curl --silent ftp://ftp.ebi.ac.uk/pub/databases/msd/sifts/xml/104d.xml.gz | gunzip | python2 parse_sifts.py 1> out/10/104d.tsv 2> /dev/null
