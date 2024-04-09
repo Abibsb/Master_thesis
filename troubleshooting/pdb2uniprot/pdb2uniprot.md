@@ -10,3 +10,4 @@ bash prepare_commands.sh > commands.txt
 parallel --jobs 1 --progress < commands.txt
 echo -e "pdb id\tpdb chain\tpdb residue\tpdb position\tuniprot id\tuniprot residue\tuniprot position" > pdb2uniprot.tsv
 find out/ -type f -name '*tsv' -exec cat {} >> pdb2uniprot.tsv \;
+
